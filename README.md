@@ -1,6 +1,6 @@
 # 🤖 Botty - A DiscordX bot template!
 
-A fully customizable, multilingual Discord verification bot. Perfect for servers looking for secure and controlled onboarding of new members, with admin approval flow and multilingual command support.
+A fully customizable, multilingual Discord bot. Perfect for servers looking for secure and controlled onboarding of new members, with admin approval flow and multilingual command support.
 
 ---
 
